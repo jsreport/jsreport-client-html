@@ -6,6 +6,11 @@
     "jsreport",
     "html"
   ],
+  "homepage": "https://github.com/jsreport/jsreport-client-html",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsreport/jsreport-client-html.git"
+  },
   "license": "LGPL",
   "dependencies": {
     "q": "^1.4.1",
